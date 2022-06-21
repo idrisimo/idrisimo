@@ -1,4 +1,4 @@
-### Hi I'm Idris! 👋 
+# Hi I'm Idris! 👋 
 
 🖥️ A Full stack Dev 🖥️
 
@@ -8,7 +8,8 @@
 
 📖 Currently Learning C# 📖
 
-How to reach me: <a href="mailto:idrissilva@hotmail.com">idrissilva@hotmail.com</a> </br>
+How to reach me: </br>
+<a href="mailto:idrissilva@hotmail.com">idrissilva@hotmail.com</a> </br>
 [![Website](https://img.shields.io/badge/idrissilva.com-grey?style=for-the-badge&url=https%3A%2F%2Fidrissilva.com)](https://idrissilva.com/) </br>
 [![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idris-silva/)
 ---
