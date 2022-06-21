@@ -5,7 +5,7 @@
 🧰 Toolbox
 
 <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg” alt=“tech Logo” width=“50” height=“50”/>
-
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
 
 ---
 
