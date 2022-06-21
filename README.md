@@ -1,5 +1,7 @@
 ### Hi I'm Idris. Welcome to my Profile! 👋 
+[![Website](https://img.shields.io/badge/idrissilva.com-grey?style=for-the-badge&url=https%3A%2F%2Fidrissilva.com)](https://idrissilva.com/)
 
+How to reach me: <a href=”mailto:idrissilva@hotmail.com”>idrissilva@hotmail.com</a>
 ---
 
 🧰 Toolbox
