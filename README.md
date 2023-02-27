@@ -1,3 +1,4 @@
+<p align="center">
 # Hi I'm Idris! 👋 
 
 🖥️ A Full stack Dev 🖥️
@@ -13,7 +14,7 @@ How to reach me: </br>
 [![Website](https://img.shields.io/badge/idrissilva.com-grey?style=for-the-badge&url=https%3A%2F%2Fidrissilva.com)](https://idrissilva.com/) </br>
 [![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idris-silva/)
 ---
-
+</p>
 🧰 Toolbox
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="tech Logo" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="tech Logo" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="tech Logo" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="tech Logo" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="tech Logo" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="tech Logo" width="50" height="50"/></br>
