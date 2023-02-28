@@ -28,5 +28,6 @@ How to reach me: </br>
   <h2>&#x1f4c8; My GitHub Stats</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idrisimo&hide=procfile,shell&theme=dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
 [![Idrisimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=idrisimo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
