@@ -27,6 +27,6 @@ How to reach me: </br>
 <div align="center">
   <h2>&#x1f4c8; My GitHub Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idrisimo&hide=procfile,shell&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idrisimo&hide=procfile,shell&theme=dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Idrisimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=idrisimo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
