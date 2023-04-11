@@ -7,7 +7,7 @@
 
 👾 Lover of games 👾
 
-📖 Currently Learning C# 📖
+📖 Currently Salesforce 📖
 
 How to reach me: </br>
 <a href="mailto:idrissilva@hotmail.com">idrissilva@hotmail.com</a> </br>
